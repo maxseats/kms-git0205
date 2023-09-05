@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ![MinSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=kms-git0205&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstjr0205)](https://solved.ac/alstjr0205/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstjr0205)](https://solved.ac/profile/alstjr0205/)
 
 # 💪Skills
 ### Platforms & Languages

@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 # KIM MIN SEOK 😉
 
 #![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=kms-git0205&show_icons=true&theme=radical)
-![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=kms-git0205&show_icons=true&theme=radical)
 
 [![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=kms-git0205)](https://github.com/kms-git0205/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kms-git0205)](https://github.com/kms-git0205/github-readme-stats)

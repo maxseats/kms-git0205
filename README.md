@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 # KIM MIN SEOK 😉
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkms-git0205&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 
 [![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=kms-git0205)](https://github.com/kms-git0205/github-readme-stats)

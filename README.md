@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 [![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=kms-git0205)](https://github.com/kms-git0205/github-readme-stats)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstjr0205)](https://solved.ac/alstjr0205/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstjr0205)](https://solved.ac/alstjr0205/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kms-git0205)](https://github.com/kms-git0205/github-readme-stats)

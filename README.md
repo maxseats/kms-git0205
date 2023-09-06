@@ -8,8 +8,6 @@
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstjr0205)](https://solved.ac/alstjr0205/) -->
 
 
-
-
 # 💪Skills
 ### Platforms & Languages
 
